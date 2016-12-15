@@ -1,0 +1,53 @@
+* {
+  font-family: "roboto", sans-serif;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+header {
+  width: 100%;
+  background-color: #EEBB44;
+  margin-bottom: 20px;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+h1, p {
+  text-align: left;
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+.box {
+  text-align: center;
+  background-color: white;
+  border: 1px lightgrey solid;
+  margin-bottom: 20px;
+}
+
+.box h3, p {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.box p {
+  margin-bottom: 20px;
+}
+
+.col-12 p {
+  margin-left: 0;
+}
